@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Michele Fraga Spadini</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Michele Fraga Spadini</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://media.licdn.com/dms/image/D4D03AQH2oV-bfctExQ/profile-displayphoto-shrink_800_800/0/1699926087929?e=1716422400&v=beta&t=dDpV2jb2ozqUfAS71wyvlCxI3I49fWWV91fuIpHaZBc" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Certifications</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Michele Fraga
+                        <span class="text-primary">Spadini</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        São Paulo - Brazil · +55(11)98904-3712 ·
+                        <a href="mailto:name@email.com">michelespadini97@gmail.com</a>
+                    </div>
+                    <p class="lead mb-5">Experienced customer service analyst, with a passion for enhancing customer experiences through continuous improvement, active listening, empathy and customer centered vision. <br> 
+                      Currently studying Systems Analysis and Development to leverage technical skills in optimizing processes and delivering superior services. <br> 
+                      Committed to positive interactions, contributing to team development and customer success.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/michele-fraga-spadini/?locale=en_US" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/MicaSpadini" target="_blank"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Bilingual Customer Service Analyst</h3>
+                            <div class="subheading mb-3">Foundever</div>
+                            <p>Customer service and support via chat and email, providing personalized and empathetic assistance to American and Canadian customers. <br>
+Assistance in purchasing, canceling and returning tickets.<br>
+Information about the use of the platform and app, plus assistance in the use of partner sites. </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">09/2023 - 01/2024</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Relationship and Community Assistant</h3>
+                            <div class="subheading mb-3">Rede Mulher Empreendedora</div>
+                            <p>Multichannel support (email, WhatsApp, Facebook, and Instagram) with agility and empathy, seeking the best possible solution for each case.<br>
+                                Moderation, organization, interaction, and content posting in WhatsApp and Facebook groups.<br>
+                                Organization and assistance in online and in-person events and other activities with entrepreneurs.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">02/2023 - 08/2023</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Bilingual Interaction Expert</h3>
+                            <div class="subheading mb-3">Teleperformance</div>
+                            <p>Cancellation and refund negotiations with national and international hotels and airlines. <br>
+Clarification of doubts about flights, activities, and accommodation. <br>
+Offer and sale of travel packages.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">08/2021 - 11/2021</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Multichannel Customer Service Technician</h3>
+                            <div class="subheading mb-3">FIS</div>
+                            <p>Chat support, active sales of consigned credit, and fraud analysis in credit cards.<br>
+                                Backup for supervision, conducting quality monitoring.<br>
+                                BackOffice Assistant, handling multichannel support in credit card processes.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">09/2019 - 01/2021</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Descomplica Digital University</h3>
+                            <div class="subheading mb-3">Bachelor</div>
+                            <div>Systems Analysis and Development</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">08/2023 - 04/2026</span></div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-1">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js-square" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fa-brands fa-python" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fa-brands fa-php" color= #343a40></i></li>
+                        <li class="list-inline-item"><i class="fa-brands fa-github" color= #343a40></i></li>
+
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Front-end Development, Responsive and Accessible Design
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            UX Design, Writing and Researching
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Desing and Agile Thinking, Scrum
+                        </li>
+                    </ul>
+                    <br>
+                    <div class="subheading mb-3">Languages</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Portuguese - Native
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            English - Advanced
+                        </li>
+                      <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Spanish - Begginer
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>Most of my interests are part of my introverted personality. I'm a PS gamer, cat lady, avid student and during my free time I enjoy crafting stuff on crochet (my brand new hobby!), origami and cold porcelain. </p>
+                    <p>Sometimes I'm also trying new recipes or watching some movies (mostly sci-fi, horror and animations. Pretty balanced, right?)</p>
+                    <p class="mb-0">During my time studying, I rather practice than just read. I need to see things working to understand the processes and see the beauty of what I'm creating functioning, being useful and responsive.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            Web and Front-end Development - Alura
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            Build Your Own Chatbot - IBM
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            Basic Front-end - Descomplica
+                      </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            Programmer - Descomplica
+                        </li>
+                       <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            AI Applied to Business - Exame
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            UX Writing - ENAP
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-laptop-code text-warning"></i></span>
+                            Storytelling - Descomplica
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
